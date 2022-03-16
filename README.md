@@ -2,6 +2,9 @@
 
 <a href="https://www.linkedin.com/in/ackw"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:andrelckw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<br/>
+#### Now playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31az5ywbaclfzg5xem3iowmbd5fy&cover_image=true&theme=novatorem&color=000000&bar_color=ff9300&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 <!--
 **ackw/ackw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
