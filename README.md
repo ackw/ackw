@@ -5,7 +5,7 @@
 <a href="mailto:andrelckw@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 #### Now playing
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31az5ywbaclfzg5xem3iowmbd5fy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31az5ywbaclfzg5xem3iowmbd5fy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
 
 <!-- #### Top Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ackw&show_icons=true&locale=en&layout=compact"/> -->
