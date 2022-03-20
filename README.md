@@ -7,8 +7,6 @@
 #### Now playing
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31az5ywbaclfzg5xem3iowmbd5fy&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
 
-![Rainbow](https://user-images.githubusercontent.com/69747121/159177446-e625c60c-79e3-40bb-8d62-86d7b3b2ff9d.gif)
-
 <!-- #### Top Languages
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ackw&show_icons=true&locale=en&layout=compact"/> -->
 
